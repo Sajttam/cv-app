@@ -1,0 +1,24 @@
+{
+    "title" : "Projects",
+    "description" : "These are some of the projects that I have worked with in the last years. They have been done either by myself or in cooperation with peers. ",
+    "projects" : [
+        {
+            "title": "V2X simulator",
+            "description": "Trafiken är något centralt i det moderna samhället men innebär också en säkerhetsrisk för trafikanterna. Med teknik som gör att bilar kan kommunicera med varandra och sin omgivning kan problemet avhjälpas. Detta projekt har haft som avsikt att undersöka om en V2X-funktion kan göra korsningar med cyklister säkrare. Projektet har utförts som ett samarbete med CyberCom och kommit fram till att en sådan funktion både är möjlig och kan göra en positiv skillnad för trafikanters säkerhet. Denna rapport innehåller såväl tillvägagångssätt som problematisering av den producerade simuleringsmodellen som använts för att testa funktionen. ",
+            "imageURL": "C:/Users/matti/Documents/cv-app/src/grafix/simulator.PNG",
+            "projectURL": "https://github.com/Sajttam/V2Xsimulator"
+        },
+        {
+            "title": "SolitaireFX",
+            "description": "",
+            "imageURL": "C:\\Users\\matti\\Documents\\cv-app\\src\\grafix\\platformer.png",
+            "projectURL": "https://github.com/Sajttam/SolitaireFX"
+        },
+        {
+            "title": "Platformer",
+            "description": "",
+            "imageURL": "C:\\Users\\matti\\Documents\\cv-app\\src\\grafix\\platformer.png",
+            "projectURL": "https://github.com/Chrooffer/Applikationer-Grupp-9"
+        }
+    ]
+}

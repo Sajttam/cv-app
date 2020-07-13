@@ -1,0 +1,138 @@
+{
+    "firstname": "Mattias",
+    "lastname": "Sikvall Källström",
+    "profile": "I can offer a newly graduated software developer with a bachelor’s in computer engineering. I work well in agile processes and is very comfortable with OOP. I prefer to work in close teams where we help each other to reach the full potential of each team member.",
+    "KeyComptences": [
+      "OOP",
+      "Java",
+      "Agile processes",
+      "Project managment",
+      "Haskell",
+      "C",
+      "Erlang"
+    ],
+    "LanguageSkill" : [
+      {
+        "language" : "Swedish",
+        "level" : "Native"
+      },
+      {
+        "language" : "English",
+        "level" : "Fluent"
+      }
+    ],
+    "Employment" : [
+      {
+        "titel" : "Laboratory IT Service Engineer",
+        "company" : "AstraZeneca",
+        "startYear" : 2017,
+        "startMonth" : 6,
+        "endYear" : 2018,
+        "endMonth" : 6,
+        "description" : [
+          "Ordered parts for laboratory equipment, customized computers for instruments. ",
+          "Evaluation of the IT-equipment in the labs with respect to GDPR."
+        ]
+      },
+      {
+        "titel" : "IT-technician",
+        "company" : "InfoCare",
+        "startYear" : 2012,
+        "startMonth" : 8,
+        "endYear" : 2016,
+        "endMonth" : 12,
+        "description" : [
+          "Installation of IT-equipment to healthcare facilities in Västra Götalands Regionen. ",
+          "Developed an inventory system and worked as an assistant to logistician. "
+        ]
+      }
+      ,
+      {
+        "titel" : "Stagehand",
+        "company" : "LPS",
+        "startYear" : 2011,
+        "startMonth" : 2,
+        "endYear" : 2011,
+        "endMonth" : 7,
+        "description" : [
+          "Installation of IT-equipment to healthcare facilities in Västra Götalands Regionen. ",
+          "Developed an inventory system and worked as an assistant to logistician. "
+        ]
+      }
+    ],
+    "Education" : [
+      {
+        "school" : "Chalmers",
+        "degree" : "Bachelor Computer Engineering",
+        "startYear" : 2015,
+        "endYear" : 2020,
+        "graduated" : true,
+        "description" : "Thesis: Modeling Intersection Collision Warning Systems using network communication and embedded systems. Had a sabbatical year 16/17."
+      },
+      {
+        "school" : "Chalmers",
+        "degree" : "Technical Mathematics",
+        "startYear" : 2014,
+        "endYear" : 2015,
+        "graduated" : false,
+        "description" : ""
+      },
+      {
+        "school" : "Chalmers",
+        "degree" : "Technical Preparatory",
+        "startYear" : 2013,
+        "endYear" : 2014,
+        "graduated" : true,
+        "description" : ""
+      }
+    ],
+    "VolunteerWork" : [
+      {
+        "Title" : "Project Manager",
+        "Union" : "ConFusion",
+        "startYear" : 2015,
+        "startMonth" : 1,
+        "endYear" : 2016,
+        "endMonth" : 12,
+        "Event" : [
+          {
+            "venue" : "Museum of World Culture",
+            "startYear" : 2015,
+            "startMonth" : 11,
+            "endYear" : 2016,
+            "endMonth" : 5
+          },
+          {
+            "venue" : "Gothenburg Games",
+            "startYear" : 2015,
+            "startMonth" : 11,
+            "endYear" : 2015,
+            "endMonth" : 4
+          },
+          {
+            "venue" : "Göteborg Book Fair",
+            "startYear" : 2015,
+            "startMonth" : 0,
+            "endYear" : 2015,
+            "endMonth" : 9
+          },
+          {
+            "venue" : "Gothenburg Culture Festival",
+            "startYear" : 2015,
+            "startMonth" : 3,
+            "endYear" : 2015,
+            "endMonth" : 7
+          }
+        ]
+      },
+      {
+        "Title" : "Vice Chairman",
+        "Union" : "ConFusion",
+        "startYear" : 2019,
+        "startMonth" : 2,
+        "endYear" : 2020,
+        "endMonth" : 3,
+        "Event" : []
+      }
+    ]
+  }

@@ -1,0 +1,36 @@
+.rowFlex {
+    display: flex;
+    flex-direction: row;
+}
+
+.rowFlexReverse{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.textInFlow {
+    min-width: 55%;
+    width: 55%;
+    padding-right: 8px;
+    padding-left: 8px;
+}
+
+.imageInFlow {
+    min-width: 100%;
+    width: 100%;
+    padding-top: 24px;
+}
+
+.dialog {
+    box-shadow: 0 8px 6px -6px black;
+    position: absolute;
+    margin: 0 auto;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .image {
+    width: 920px;
+  }
+  

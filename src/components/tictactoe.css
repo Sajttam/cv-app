@@ -1,0 +1,60 @@
+
+  ol, ul {
+    padding-left: 30px;
+  }
+  
+  .board-row:after {
+    clear: both;
+    content: "";
+    display: table;
+  }
+
+  .historyButton {
+    width: 150px;
+    height: 25px;
+  }
+  
+  .status {
+    margin-bottom: 10px;
+  }
+  
+  .square {
+    background: #fff;
+    border: 1px solid #999;
+    float: left;
+    font-size: 48px;
+    font-weight: bold;
+    line-height: 34px;
+    height: 64px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    width: 64px;
+  }
+  
+  .square:focus {
+    outline: none;
+  }
+  
+  .kbd-navigation .square:focus {
+    background: #ddd;
+  }
+  
+  .game {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    margin-top: 30px;
+    max-width: 390px;
+    min-height: 200px;
+  }
+
+  .game-board {
+    max-width: 190px;
+  }
+  
+  .game-info {
+    margin-left: 20px;
+    max-width: 200px;
+  }
