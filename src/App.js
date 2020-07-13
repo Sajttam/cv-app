@@ -4,8 +4,8 @@ import './index.css';
 import './components/tictactoe.css';
 import LinkButton from './components/LinkButton';
 import data from './data/cvData.json';
-import profilePic from './grafix/0.jpg';
-import vechiles from './grafix/FrontpagePic.jpg';
+import profilePic from 'http://mattiaskallstrom.se/files/0.jpg';
+import vechiles from 'http://mattiaskallstrom.se/files/FrontpagePic.jpg';
 import CV from './components/CVcomponent';
 import Projects from './components/Projects'
 import {
