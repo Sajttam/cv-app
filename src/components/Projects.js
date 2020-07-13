@@ -3,9 +3,9 @@ import '../index.css';
 import '../projects.css';
 import './tictactoe.css';
 import data from '../data/projectsData.json';
-import image1 from 'http://mattiaskallstrom.se/files/simulator.PNG';
-import image2 from 'http://mattiaskallstrom.se/files/SolitaireFX.png';
-import image3 from 'http://mattiaskallstrom.se/files/platformer.png';
+import image1 from '../grafix/simulator.PNG';
+import image2 from '../grafix/SolitaireFX.png';
+import image3 from '../grafix/platformer.png';
 
 const images = [image1, image2, image3];
 
