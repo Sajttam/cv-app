@@ -9,6 +9,12 @@ import vechiles from './grafix/FrontpagePic.jpg';
 import CV from './components/CVcomponent';
 import Projects from './components/Projects'
 import CharCheet from './components/CharCheet'
+import Esker from './components/characters/Esker'
+import Griff from './components/characters/Griff'
+import Lillsam from './components/characters/Lillsam'
+import Ottar from './components/characters/Ottar'
+import Tegol from './components/characters/Tegol'
+
 import {
     BrowserRouter as Router,
     Switch,
@@ -144,9 +150,29 @@ class App extends React.Component {
                             </div>
                             <div className="footer"></div>
                         </Route>
-                        <Route path="/CharCheet">
+                        <Route path="/Esker">
                             <div className="content">
-                                <CharCheet />
+                                <Esker />
+                            </div>
+                        </Route>
+                        <Route path="/Griff">
+                            <div className="content">
+                                <Griff />
+                            </div>
+                        </Route>
+                        <Route path="/Lillsam">
+                            <div className="content">
+                                <Lillsam />
+                            </div>
+                        </Route>
+                        <Route path="/Ottar">
+                            <div className="content">
+                                <Ottar />
+                            </div>
+                        </Route>
+                        <Route path="/Tegol">
+                            <div className="content">
+                                <Tegol />
                             </div>
                         </Route>
                         <Route path="/">                            

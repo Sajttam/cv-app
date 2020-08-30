@@ -2,11 +2,12 @@ import React from 'react';
 import '../index.css';
 import '../projects.css';
 import './tictactoe.css';
+import DiceComponent from './DiceComponent';
 
 class CharCheet extends React.Component {
     render() {
 
-        return <div>
+        return <div><DiceComponent />
             <h1>Brunhilda</h1>
 
 <div>
