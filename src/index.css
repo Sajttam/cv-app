@@ -97,7 +97,7 @@ html, body {
 }
 
 .westSubBoxImage {
-  max-width: 700px;
+  max-width: 100%;
 }
 
 
@@ -133,3 +133,98 @@ html, body {
 }
 
 
+/* Character scheet
+-------------------------------------------------- */
+
+.boxRowContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.boxTopLeft {
+  width: 40%;
+  border-style: solid;
+  padding: 12px;
+  background-color: lightgoldenrodyellow;
+  border-width: 1px;
+  margin: 2px;
+  border-radius: 6px;
+}
+
+.boxTopCenter {
+  width: 20%;
+  border-style: solid;
+  padding: 12px;
+  background-color: lightgoldenrodyellow;
+  margin: 2px;
+  border-width: 1px;
+  border-radius: 6px;
+}
+
+.boxTopRight {
+  width: 40%;
+  border-style: solid;
+  padding: 12px;
+  background-color: lightgoldenrodyellow;
+  margin: 2px;
+  border-width: 1px;
+  border-radius: 6px;
+}
+
+.boxBottomLeft {
+  width: 30%;
+  border-style: solid;
+  padding: 12px;
+  background-color: lightgoldenrodyellow;
+  margin: 2px;
+  border-width: 1px;
+  border-radius: 6px;
+}
+
+.boxBottomContainer {
+  width: 70%;
+}
+
+.sheetHeading {
+  margin-right: 32px;
+  border-radius: 6px;
+}
+
+.dataEntry {
+  text-align: center;
+  width: 100%;
+  min-width: 128px;
+  font-weight: bold;
+}
+
+.dataEntryWeight {
+  text-align: center;
+  font-weight: bold;
+}
+
+.boxBottomDmg {
+  width: 70%;
+  border-style: solid;
+  padding: 12px;
+  margin: 2px;
+  background-color: lightgoldenrodyellow;
+  border-width: 1px;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+}
+
+.boxBottomRight {
+  width: 70%;
+  border-style: solid;
+  padding: 12px;
+  margin: 2px;
+  background-color: lightgoldenrodyellow;
+  border-width: 1px;
+  border-radius: 6px;
+}
+
+.charDataTabel {
+  width: 100%;
+}
